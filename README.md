@@ -1,3 +1,3 @@
 # JUnitestCalc
 
-1 Estudo sobre test com JAVA utilizando a dependência JUnit
+1 Estudo sobre test com JAVA utilizando a biblioteca JUnit
